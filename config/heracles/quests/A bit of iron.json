@@ -1,0 +1,50 @@
+{
+  "dependencies": [
+    "New world"
+  ],
+  "tasks": {
+    "sdfasdf": {
+      "amount": 1,
+      "manual": true,
+      "item": "#forge:raw_materials/iron",
+      "type": "heracles:item"
+    }
+  },
+  "rewards": {
+    "iron": {
+      "item": {
+        "id": "minecraft:raw_iron",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Wherever I go, I see this ore."
+    },
+    "description": [
+      "Every nice minecraft run starts with a bit of iron. I believe this run shouldn't be any different."
+    ],
+    "groups": {
+      "Starting from scratch": {
+        "position": [
+          -81,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:raw_iron",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "New A bit of iron"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "dependencies": [
+    "New world"
+  ],
+  "tasks": {
+    "df": {
+      "recipes": [
+        "minecraft:wooden_axe"
+      ],
+      "type": "heracles:recipe"
+    },
+    "wood": {
+      "amount": 8,
+      "manual": false,
+      "item": "#minecraft:logs",
+      "type": "heracles:item"
+    }
+  },
+  "rewards": {
+    "asdf": {
+      "item": {
+        "id": "minecraft:oak_log",
+        "count": 64
+      },
+      "type": "heracles:item"
+    },
+    "stone": {
+      "item": {
+        "id": "minecraft:cobblestone",
+        "count": 64
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "No more long tree cutting!"
+    },
+    "description": [
+      "Mostly because this pack is modrinth-based, it has slightly different utility most that most of us used to.",
+      "",
+      "FallingTree mod provides two mods for cutting down trees:",
+      "- Instantaneous: Break one log and the whole tree will fall",
+      "- Shift down: Break a block and the log will slowly shift down as you cut it\\",
+      "",
+      "This works only when you use an axe, of course."
+    ],
+    "groups": {
+      "Starting from scratch": {
+        "position": [
+          -33,
+          -47
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:wooden_axe",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Tree is falling, wow!"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "asdas": {
+      "recipes": [
+        "minecraft:crafting_table"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "10": {
+      "xptype": "LEVEL",
+      "amount": 1,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "So familiar, but so different."
+    },
+    "description": [
+      "This new world seems to be slightly different from the rest that you visit. Everything seems in place, but something important is still missing.",
+      "",
+      "In any case, everything starts with one small crafting table."
+    ],
+    "groups": {
+      "Starting from scratch": {
+        "position": [
+          -82,
+          -66
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:grass_block",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "New world"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false
+  }
+}

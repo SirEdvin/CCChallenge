@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "20b772fe57f3bb6cc06887fecc787fab0b7ec27877ea0a9e6629281a60f8ed69"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "644ee8075287bd95cc2f8ef489669c8c852f63c776c37b9fbbe746641daa4d25"
 metafile = true

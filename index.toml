@@ -5,15 +5,15 @@ file = "config/heracles/groups.txt"
 hash = "0c0d8fe18d4a3f10346024dd353ba78783a4eab3627981542ce3cd6707b16301"
 
 [[files]]
-file = "config/heracles/quests/A bit of iron.json"
+file = "config/heracles/quests/A bit of iron.json123"
 hash = "916cbbe37c50664d95a3b5527ebb9007c7609d614614cd04073438ebfc387e2c"
 
 [[files]]
-file = "config/heracles/quests/New world.json"
+file = "config/heracles/quests/New world.json123"
 hash = "baa6d4b27b0adb391c7f19b6242a8d9a37c63dde4b87e74aee82593e20a18533"
 
 [[files]]
-file = "config/heracles/quests/Tree is falling!.json"
+file = "config/heracles/quests/Tree is falling!.json123"
 hash = "001fce5e0c90520546902c4e4ef1835e2e43d40fe596f7e67e0f962a6719d672"
 
 [[files]]

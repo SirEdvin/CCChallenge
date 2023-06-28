@@ -56,11 +56,6 @@ hash = "c3152b461f8cdfe99c572979463837bef0bea3ca5bff2887f7a7cbcd017f5598"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "6ddf44f44bc78650c45edabe2590d8e8baf5f2054e09e0a5f98434a18cf3a4a2"
-metafile = true
-
-[[files]]
 file = "mods/energized-power.pw.toml"
 hash = "6892c3e93ef93432b3ce79912a2751b23d9ce6b9001ff052b917b5321ee0fb41"
 metafile = true
@@ -98,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "66ea08e8d474db0f4d1bbc8758d888167d5d06b14acbd80c2839e1a3ab245c87"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d12f388b9fd51c4844f254c9972d8165684ad0b8c2e4b3cb4c77e3ece3e688b6"
 metafile = true
 
 [[files]]

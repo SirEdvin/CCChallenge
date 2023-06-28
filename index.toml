@@ -51,13 +51,28 @@ hash = "5a1ada7c9957ef15584cefb5941bf2bde1f290547544766c03412d3f4f499fda"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
+metafile = true
+
+[[files]]
+file = "mods/deep-resonance.pw.toml"
+hash = "dd501c990a1112c79238139325d1aba447853849826a066721dc465c1b87bb7c"
+metafile = true
+
+[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "c3152b461f8cdfe99c572979463837bef0bea3ca5bff2887f7a7cbcd017f5598"
 metafile = true
 
 [[files]]
-file = "mods/energized-power.pw.toml"
-hash = "6892c3e93ef93432b3ce79912a2751b23d9ce6b9001ff052b917b5321ee0fb41"
+file = "mods/easy-piglins.pw.toml"
+hash = "ba6dd26d83e86c95c9f98059f5fe811ae7cf426f019d7389a1295db36d55b269"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "6cf376413130924f0893b072931a18382ec6b4dd4875dc509ea01461ed181aaa"
 metafile = true
 
 [[files]]
@@ -73,6 +88,26 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "8a0908bb4772b63bb977fcc10c012561d0423066df18609de7c2f0c3aeb5af98"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "86d0d2762995e757254850f2411114452856040de9e16a583b9c4a87d5b710b2"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "4b7f2ee2e5916b6f04d2328a7d99f35b952d419dcf1eeb8d416343eb735a4eb2"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "204353715fdaa0e61987ee574b7dd69114b03f3eaca5a70c546c73d0c89443bf"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5f27ed4c7f850dc2304e545caa2ef8ada2d2552edbade19490726f6f59f22e84"
 metafile = true
 
 [[files]]
@@ -96,6 +131,11 @@ hash = "66ea08e8d474db0f4d1bbc8758d888167d5d06b14acbd80c2839e1a3ab245c87"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "74abcce143197137bab57431d75a2dc53d4fb0de2b8615b0b97716476ad9500a"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d12f388b9fd51c4844f254c9972d8165684ad0b8c2e4b3cb4c77e3ece3e688b6"
 metafile = true
@@ -103,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "6e1b3ddf51aafcd04ae4c51fde6cda895ea5f5ba876d69e117dd71d95c3f9689"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "c1411b4ef3832fd25ef70df2a151f4c6ef9ff751b63cac1f7c7be3714798bc9b"
 metafile = true
 
 [[files]]
@@ -141,6 +186,11 @@ hash = "5351c5c6480e5385dcb2de151ab7d9229311af7c2680b463fb92a10b7282a581"
 metafile = true
 
 [[files]]
+file = "mods/occultism.pw.toml"
+hash = "56c097c6261c5ded9a70dbf79849f7a170d738b7893917e98cbee83e737f5ff2"
+metafile = true
+
+[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "788506b59862603e37c5627961a5f4525777df790c270efe3a698fd96c5b7499"
 metafile = true
@@ -156,8 +206,43 @@ hash = "36a8de0300f6d69bdb8308132122e20d7b64d1bf51e86182987e65a0998bde14"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "ff0a6080bd9345bef30971627c090340febd966c1e616036fc08a8f5e5bf5336"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "304921be4533e86aa6a0ffe14eb505b60e8bdb533746f0d3b53adadfa5732209"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "710a5535513f82931d402fec3bde56d9b8501ccac45f54339df572805772a3ac"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "a0ea87d0c90d8d1423c7cac8297e592030a61ee4926633d6f5fe860f9b146bce"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "1620e9db328a68e50e206e0786068e5e32c229f0fb87d2d7fdf12a01afeb8176"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "c9d50c1026f982037669980b64c7cd29f5bab4c63145dcaea4f8d8c096bf6f74"
+metafile = true
+
+[[files]]
+file = "mods/simple-quarry.pw.toml"
+hash = "2cd78a363523b448b540a475670375ff8dcb8ef89af5c7fa9f6a41eabf4502d7"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "906fa2d7276f815d5dfbd9ea9ae457f694139f956075e66b683034d272697367"
 metafile = true
 
 [[files]]
@@ -181,6 +266,11 @@ hash = "230730f2ba80da1e701863060f9b647a740b5ac07b66bb9a03bc33b19e9d6b12"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "7f18b595b279cc6ff7a24089989b42ff3eadf77e784624a5887a84f353d5cdc1"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "de4deda2063d3cc064ce36dea773546c053c261181c56ea7cebe586cf0b9b811"
 metafile = true
@@ -193,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "d031e2217f35c3483b05c839fc16d8966072e9a8c4f47f65a8bfe98f0bc3aa80"
+metafile = true
+
+[[files]]
+file = "mods/turtle-charging-station.pw.toml"
+hash = "a10173248aa4f78d14574d0518b7488c28e32d6842d634085d3e347c5b1e6e99"
 metafile = true
 
 [[files]]
@@ -213,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "3f9eb51665a406cce6da1542cb36a75b7c4787d9127dc66de13999c25f7b84e9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a58a4fc67d15233948364416881796b9cba8b2ffa1fe368b1219ba482d133f42"
 metafile = true
 
 [[files]]

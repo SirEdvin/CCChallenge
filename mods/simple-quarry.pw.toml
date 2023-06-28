@@ -1,0 +1,13 @@
+name = "Simple Quarry"
+filename = "SimpleQuarry-1.20.1-20.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3lgCbLg/versions/32kqcch6/SimpleQuarry-1.20.1-20.1.1.jar"
+hash-format = "sha1"
+hash = "4b867f4bcbb7280f000a8aff1926aef6580aa03d"
+
+[update]
+[update.modrinth]
+mod-id = "s3lgCbLg"
+version = "32kqcch6"

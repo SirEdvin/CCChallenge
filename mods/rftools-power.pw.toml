@@ -1,0 +1,13 @@
+name = "RFTools Power"
+filename = "rftoolspower-1.20-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWbLuPa1/versions/f430rHkA/rftoolspower-1.20-6.0.0.jar"
+hash-format = "sha1"
+hash = "9957f6bf2ab3cbdac4425fe7f24686d19fe0dd2b"
+
+[update]
+[update.modrinth]
+mod-id = "YWbLuPa1"
+version = "f430rHkA"

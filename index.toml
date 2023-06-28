@@ -353,4 +353,4 @@ metafile = true
 
 [[files]]
 file = "scripts/block_hopper_from_placing.zs"
-hash = "e1ce933fc12ca262982157e9687e1457f7acf611d3a2b7b0255a59668d8b29b6"
+hash = "a23339b73cdc00ff42dc88359937b4a1ee2c4dcafc5363f4ffe41c094ea4444e"

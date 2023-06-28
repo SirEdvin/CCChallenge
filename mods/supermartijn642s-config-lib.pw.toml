@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.6-forge-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/RWo3uurV/supermartijn642configlib-1.1.6-forge-mc1.20.jar"
+hash-format = "sha1"
+hash = "3602b91a05e0cd248550eeb9f29d3f84216a0769"
+
+[update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "RWo3uurV"

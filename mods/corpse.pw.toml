@@ -1,0 +1,13 @@
+name = "Corpse"
+filename = "corpse-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WrpuIfhw/versions/jQQ9lFmi/corpse-1.20.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "287024b8b625ded4b265dece79d929f7fc985802"
+
+[update]
+[update.modrinth]
+mod-id = "WrpuIfhw"
+version = "jQQ9lFmi"

@@ -1,0 +1,216 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "99ed7317e10a81708a38cbd1f4ae13972a7ad6aed74e6447a52827a7b7d410ca"
+metafile = true
+
+[[files]]
+file = "mods/argonauts.pw.toml"
+hash = "a64bab6e6f7a8c3e5f1faece9f94e3010566c7109825c93370ff8b5f84a1e417"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "9bcb3389e104fbc89005b26c7f54062fb50d73bc7f87c79429ed2b557c223b46"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a32962d840bb4aef2e13fa7244377ce4e409a319a3e071907ef601cb8ec01f4b"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "0b23bcecde8e27ceeb0b02a8bf752ec8508559b9c5011330f6f7c142c7af7170"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "4fa73d572cf8c6a721aa756349bd54549554f6504abadea343732e414685b927"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "9ac087899554d1603d853b3c1b1228d8b257bbae96c6a6f40ac24db18427695f"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "9210900837e43b13be57e935a196b8920453489e694e0aed9cde7aab59dd2965"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "5a1ada7c9957ef15584cefb5941bf2bde1f290547544766c03412d3f4f499fda"
+metafile = true
+
+[[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "c3152b461f8cdfe99c572979463837bef0bea3ca5bff2887f7a7cbcd017f5598"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "6892c3e93ef93432b3ce79912a2751b23d9ce6b9001ff052b917b5321ee0fb41"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "d049ba1523d1e1bc829db09ab08f191618498b301d30bdd7aa5215d19987088d"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "15a5a9652b3cf95ce7f2ea12a564d5d90a018bf946cd8f71bc52645204f77f0f"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "8a0908bb4772b63bb977fcc10c012561d0423066df18609de7c2f0c3aeb5af98"
+metafile = true
+
+[[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "300783fe8feb362e7dba54da5b65c92050ff48f407b57cf145b5dcf57d69ffbd"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "9ce4daf420b0d74976f55473e7955b3c349deafa99843011b880f6cf215882ce"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "66ea08e8d474db0f4d1bbc8758d888167d5d06b14acbd80c2839e1a3ab245c87"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d12f388b9fd51c4844f254c9972d8165684ad0b8c2e4b3cb4c77e3ece3e688b6"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "6e1b3ddf51aafcd04ae4c51fde6cda895ea5f5ba876d69e117dd71d95c3f9689"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "7dd19e2e2c30e9ad18b33a74dea96847ab9d8fb318f3380d5369f85b4c9b70a1"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "bda262474f95def315d9bd408d58f19cfb74fca35edf479173b68b5192a39a80"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "750b3a160c44249e6fc1bc6743b798fa1a90654a46cc82c61c370a8a500b9f6c"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "f0ae992b5141ae56593ce005074d5c6b9488eb6476a0e6aa64b6e112c0c62c84"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "7299652de8fe16fb11b0c68c15d416afff2bfb0b3f4e0511919ba6b89047610e"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "5351c5c6480e5385dcb2de151ab7d9229311af7c2680b463fb92a10b7282a581"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "788506b59862603e37c5627961a5f4525777df790c270efe3a698fd96c5b7499"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "55fcf9797c15338728d2bf6b5e3df9bc7b38a205e2931efbd5e53ac0b3a184d6"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
+hash = "36a8de0300f6d69bdb8308132122e20d7b64d1bf51e86182987e65a0998bde14"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "304921be4533e86aa6a0ffe14eb505b60e8bdb533746f0d3b53adadfa5732209"
+metafile = true
+
+[[files]]
+file = "mods/solar-flux-reborn.pw.toml"
+hash = "d11e000fb28e72f0fed1c0e4bccd2e59fd04c08c139508f3803650c49ad2ae08"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2b1a0d7781207c0ce7f5ceb87651c3cbded313c2e7cac2832c7928fab5c57d2a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "14877fe8d3b2cea97e430fecc225eeb471da76155df0894e703721796b66ff6f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "53363710961bc53183dfa30e3b2b199065c91fe09da1be9cb1c84061a32f971b"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "230730f2ba80da1e701863060f9b647a740b5ac07b66bb9a03bc33b19e9d6b12"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "de4deda2063d3cc064ce36dea773546c053c261181c56ea7cebe586cf0b9b811"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "06c1a9f31277e9ca0fc9334b06d433120b9f64d2ca521d55c16cc3a7ec94c955"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "d031e2217f35c3483b05c839fc16d8966072e9a8c4f47f65a8bfe98f0bc3aa80"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "590e18a0267f3d647f795b4acdb1e02c73e274469baf9a83dae0adbaf04110dc"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "c726bc897ddace949856f85e36b9a890aae16750fee2789f190254c294c2160f"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "844be36d3963460b16416745c2d0ba07c6db61783d98813a0f7cc66a2a82a6a9"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "3f9eb51665a406cce6da1542cb36a75b7c4787d9127dc66de13999c25f7b84e9"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "17f9b6da1aadf3608116b8557dfe660f641f58f68d791e5f01f23e0806b976c1"
+metafile = true

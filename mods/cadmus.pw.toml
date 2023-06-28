@@ -1,0 +1,13 @@
+name = "Cadmus"
+filename = "cadmus-forge-1.20.1-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/pVYAyVrQ/cadmus-forge-1.20.1-0.0.2.jar"
+hash-format = "sha1"
+hash = "8260cac8f0f7d24059b17304afe0a2785de352d8"
+
+[update]
+[update.modrinth]
+mod-id = "fEWKxVzh"
+version = "pVYAyVrQ"

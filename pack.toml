@@ -1,0 +1,16 @@
+name = "CC Challenge"
+author = "SirEdvin"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3a780da092915e19a3d1cd892d69b05f2dc355841c140e72be387d156b468185"
+
+[versions]
+forge = "47.0.34"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20"]

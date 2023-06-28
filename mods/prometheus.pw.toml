@@ -1,0 +1,13 @@
+name = "Prometheus"
+filename = "prometheus-forge-1.20-0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYcNKH7W/versions/eRAb3XkY/prometheus-forge-1.20-0.0.0.jar"
+hash-format = "sha1"
+hash = "1f52b98e3012134b0e028cce5f346f1daa08b1e2"
+
+[update]
+[update.modrinth]
+mod-id = "iYcNKH7W"
+version = "eRAb3XkY"

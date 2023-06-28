@@ -2,18 +2,18 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/heracles/groups.txt"
-hash = "0c0d8fe18d4a3f10346024dd353ba78783a4eab3627981542ce3cd6707b16301"
+hash = "98869e1dc26e664b4c3b6b9e3fd6d5ca8c0715e5f3e9c5319cfb0b6c90ac58ec"
 
 [[files]]
-file = "config/heracles/quests/A bit of iron.json123"
+file = "config/heracles/quests/A bit of iron.json"
 hash = "916cbbe37c50664d95a3b5527ebb9007c7609d614614cd04073438ebfc387e2c"
 
 [[files]]
-file = "config/heracles/quests/New world.json123"
+file = "config/heracles/quests/New world.json"
 hash = "baa6d4b27b0adb391c7f19b6242a8d9a37c63dde4b87e74aee82593e20a18533"
 
 [[files]]
-file = "config/heracles/quests/Tree is falling!.json123"
+file = "config/heracles/quests/Tree is falling!.json"
 hash = "001fce5e0c90520546902c4e4ef1835e2e43d40fe596f7e67e0f962a6719d672"
 
 [[files]]
@@ -54,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "4fa73d572cf8c6a721aa756349bd54549554f6504abadea343732e414685b927"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "454bc315d4d1fc8a92cbb112b77cd9d0b707d2c10aeed9d2df63b62db4a0f6d7"
 metafile = true
 
 [[files]]
@@ -257,6 +262,11 @@ hash = "c9d50c1026f982037669980b64c7cd29f5bab4c63145dcaea4f8d8c096bf6f74"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
+metafile = true
+
+[[files]]
 file = "mods/simple-quarry.pw.toml"
 hash = "2cd78a363523b448b540a475670375ff8dcb8ef89af5c7fa9f6a41eabf4502d7"
 metafile = true
@@ -340,3 +350,7 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "17f9b6da1aadf3608116b8557dfe660f641f58f68d791e5f01f23e0806b976c1"
 metafile = true
+
+[[files]]
+file = "scripts/block_hopper_from_placing.zs"
+hash = "e1ce933fc12ca262982157e9687e1457f7acf611d3a2b7b0255a59668d8b29b6"

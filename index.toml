@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "644ee8075287bd95cc2f8ef489669c8c852f63c776c37b9fbbe746641daa4d25"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "99ed7317e10a81708a38cbd1f4ae13972a7ad6aed74e6447a52827a7b7d410ca"
 metafile = true
@@ -51,6 +56,11 @@ hash = "c3152b461f8cdfe99c572979463837bef0bea3ca5bff2887f7a7cbcd017f5598"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "6ddf44f44bc78650c45edabe2590d8e8baf5f2054e09e0a5f98434a18cf3a4a2"
+metafile = true
+
+[[files]]
 file = "mods/energized-power.pw.toml"
 hash = "6892c3e93ef93432b3ce79912a2751b23d9ce6b9001ff052b917b5321ee0fb41"
 metafile = true
@@ -76,6 +86,11 @@ hash = "300783fe8feb362e7dba54da5b65c92050ff48f407b57cf145b5dcf57d69ffbd"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4d0b268c4676bb72dee5f5ee4bd04716396d985939932fa4d8b90157bec70609"
+metafile = true
+
+[[files]]
 file = "mods/heracles.pw.toml"
 hash = "9ce4daf420b0d74976f55473e7955b3c349deafa99843011b880f6cf215882ce"
 metafile = true
@@ -83,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "66ea08e8d474db0f4d1bbc8758d888167d5d06b14acbd80c2839e1a3ab245c87"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "d12f388b9fd51c4844f254c9972d8165684ad0b8c2e4b3cb4c77e3ece3e688b6"
 metafile = true
 
 [[files]]

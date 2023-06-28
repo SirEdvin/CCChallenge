@@ -1,0 +1,13 @@
+name = "EMI"
+filename = "emi-1.0.5+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/SErzvird/emi-1.0.5%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "7a21c7423d9ee825841e4aadd0c976f81113e5cd"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "SErzvird"

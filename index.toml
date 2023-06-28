@@ -151,11 +151,6 @@ hash = "304921be4533e86aa6a0ffe14eb505b60e8bdb533746f0d3b53adadfa5732209"
 metafile = true
 
 [[files]]
-file = "mods/solar-flux-reborn.pw.toml"
-hash = "d11e000fb28e72f0fed1c0e4bccd2e59fd04c08c139508f3803650c49ad2ae08"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2b1a0d7781207c0ce7f5ceb87651c3cbded313c2e7cac2832c7928fab5c57d2a"
 metafile = true

@@ -87,6 +87,11 @@ hash = "dd501c990a1112c79238139325d1aba447853849826a066721dc465c1b87bb7c"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "4136a482974e4f4b558f228785628433b83113319fb7e3d1f85bb21f5588796e"
+metafile = true
+
+[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "c3152b461f8cdfe99c572979463837bef0bea3ca5bff2887f7a7cbcd017f5598"
 metafile = true
@@ -217,6 +222,11 @@ hash = "56c097c6261c5ded9a70dbf79849f7a170d738b7893917e98cbee83e737f5ff2"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "7a233669a931a7959711b83c9afd7784360aa9050b9e2c84d9ebed27981f38b6"
+metafile = true
+
+[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "788506b59862603e37c5627961a5f4525777df790c270efe3a698fd96c5b7499"
 metafile = true
@@ -259,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-utility.pw.toml"
 hash = "c9d50c1026f982037669980b64c7cd29f5bab4c63145dcaea4f8d8c096bf6f74"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "e72d25a5c58f5083f26ec059b1e3231059159e18fa42ef473eb2f7e902e49b11"
 metafile = true
 
 [[files]]

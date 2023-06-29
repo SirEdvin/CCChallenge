@@ -369,3 +369,7 @@ metafile = true
 [[files]]
 file = "scripts/block_hopper_from_placing.zs"
 hash = "a23339b73cdc00ff42dc88359937b4a1ee2c4dcafc5363f4ffe41c094ea4444e"
+
+[[files]]
+file = "scripts/recipe_purge.zs"
+hash = "b45e21a486edd6224171360bea1f2a60cdb2ef86fd1616d3c43693ee72bfec2b"

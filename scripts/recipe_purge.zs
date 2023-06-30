@@ -7,7 +7,7 @@ craftingTable.remove(<item:toms_storage:ts.inventory_hopper_basic>);
 
 # Some occultism cleanup
 var occultismRitual = <recipetype:occultism:ritual>;
-occultismRitual.remove("item:occultism:book_of_calling_djinni_manage_machine");
-occultismRitual.remove("item:occultism:book_of_calling_foliot_cleaner");
-occultismRitual.remove("item:occultism:book_of_calling_foliot_transport_items");
-occultismRitual.remove("item:occultism:book_of_calling_foliot_lumberjack");
+occultismRitual.remove(<item:occultism:book_of_calling_djinni_manage_machine>);
+occultismRitual.remove(<item:occultism:book_of_calling_foliot_cleaner>);
+occultismRitual.remove(<item:occultism:book_of_calling_foliot_transport_items>);
+occultismRitual.remove(<item:occultism:book_of_calling_foliot_lumberjack>);

@@ -32,6 +32,11 @@ hash = "99ed7317e10a81708a38cbd1f4ae13972a7ad6aed74e6447a52827a7b7d410ca"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "a81df23ba58d6991a66dcac6e6100ff94ac24b7c426e6b54aa63ab5291ed75c2"
+metafile = true
+
+[[files]]
 file = "mods/argonauts.pw.toml"
 hash = "a64bab6e6f7a8c3e5f1faece9f94e3010566c7109825c93370ff8b5f84a1e417"
 metafile = true

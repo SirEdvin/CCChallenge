@@ -11,3 +11,8 @@ occultismRitual.remove(<item:occultism:book_of_calling_djinni_manage_machine>);
 occultismRitual.remove(<item:occultism:book_of_calling_foliot_cleaner>);
 occultismRitual.remove(<item:occultism:book_of_calling_foliot_transport_items>);
 occultismRitual.remove(<item:occultism:book_of_calling_foliot_lumberjack>);
+
+craftingTable.remove(<item:occultism:book_of_calling_djinni_manage_machine>);
+craftingTable.remove(<item:occultism:book_of_calling_foliot_cleaner>);
+craftingTable.remove(<item:occultism:book_of_calling_foliot_transport_items>);
+craftingTable.remove(<item:occultism:book_of_calling_foliot_lumberjack>);

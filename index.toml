@@ -117,6 +117,11 @@ hash = "d049ba1523d1e1bc829db09ab08f191618498b301d30bdd7aa5215d19987088d"
 metafile = true
 
 [[files]]
+file = "mods/extended-crafting.pw.toml"
+hash = "d522fd0e391b269f6addc70b7b275993de2cc97f4ed083af85d060dac7963cf8"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "15a5a9652b3cf95ce7f2ea12a564d5d90a018bf946cd8f71bc52645204f77f0f"
 metafile = true
@@ -297,6 +302,11 @@ hash = "906fa2d7276f815d5dfbd9ea9ae457f694139f956075e66b683034d272697367"
 metafile = true
 
 [[files]]
+file = "mods/stratospherical-expansion.pw.toml"
+hash = "d35939ba29cc6fea10132beb597c187dd4c0baeea626f241ebe99b271623afc4"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2b1a0d7781207c0ce7f5ceb87651c3cbded313c2e7cac2832c7928fab5c57d2a"
 metafile = true
@@ -309,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "53363710961bc53183dfa30e3b2b199065c91fe09da1be9cb1c84061a32f971b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "eaef5234eaacabe98c2fa6fd02cfe927b0269ac2669ce8035f48c62df81c56c1"
 metafile = true
 
 [[files]]

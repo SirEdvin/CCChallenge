@@ -391,5 +391,9 @@ file = "scripts/block_hopper_from_placing.zs"
 hash = "a23339b73cdc00ff42dc88359937b4a1ee2c4dcafc5363f4ffe41c094ea4444e"
 
 [[files]]
+file = "scripts/new_recipes.zs"
+hash = "26633b8cdd7ce83fc0853a6451d27a6031e2b3836d527209ddeb9c626e6e2c58"
+
+[[files]]
 file = "scripts/recipe_purge.zs"
-hash = "027de010144d457107150b8ec821fc4bc4d83e36abebace0fef2b8475059f322"
+hash = "b94f886d8159465b3cfe950c8fb46c5bb6f670e4b635f55c46c715127c3475b0"

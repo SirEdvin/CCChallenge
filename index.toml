@@ -247,6 +247,11 @@ hash = "788506b59862603e37c5627961a5f4525777df790c270efe3a698fd96c5b7499"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "91defa6403d242ea0431e37e2f028aa33d4bd990580d7dd69eac6c4c5685732f"
+metafile = true
+
+[[files]]
 file = "mods/productivebees.pw.toml"
 hash = "55fcf9797c15338728d2bf6b5e3df9bc7b38a205e2931efbd5e53ac0b3a184d6"
 metafile = true

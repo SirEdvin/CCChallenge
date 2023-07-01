@@ -18,7 +18,7 @@ hash = "001fce5e0c90520546902c4e4ef1835e2e43d40fe596f7e67e0f962a6719d672"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
-hash = "20b772fe57f3bb6cc06887fecc787fab0b7ec27877ea0a9e6629281a60f8ed69"
+hash = "2af462d99a6212200962a91457c20f85f97c0e5f54e0bfde5c147f69d3627b21"
 metafile = true
 
 [[files]]
@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "99ed7317e10a81708a38cbd1f4ae13972a7ad6aed74e6447a52827a7b7d410ca"
+hash = "95a67bcd8a64b68b5bf05991b9ca0b4d9dfbdafd3591b4289c5271228d9731fd"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "9210900837e43b13be57e935a196b8920453489e694e0aed9cde7aab59dd2965"
+hash = "8ea613b0009ee025825d922d58df186f37b39780c77df3c677129b4f83b0fdea"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "300783fe8feb362e7dba54da5b65c92050ff48f407b57cf145b5dcf57d69ffbd"
+hash = "046ae82143034ce5ff357d239023953533927b7ea7b67e7f81cb5d01f24c2953"
 metafile = true
 
 [[files]]
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "7dd19e2e2c30e9ad18b33a74dea96847ab9d8fb318f3380d5369f85b4c9b70a1"
+hash = "717b64b996e9dc5620d796fe92cd3737bcea0160e3fe80ccfa30670a67676fcf"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bda262474f95def315d9bd408d58f19cfb74fca35edf479173b68b5192a39a80"
+hash = "b6c9cb8ed3630c6ac4a12b7b10d4aaddf188f15c6b82e90f94624e9a521b3735"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "53363710961bc53183dfa30e3b2b199065c91fe09da1be9cb1c84061a32f971b"
+hash = "49c168a99e651792050d54dbdc71a1e059c6a21f31fd892e36ec31caead8d6d5"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "c726bc897ddace949856f85e36b9a890aae16750fee2789f190254c294c2160f"
+hash = "d7d310a70fbcf17d45af38cb2b729ea86c3edd74d692df77de03df6570a85a78"
 metafile = true
 
 [[files]]

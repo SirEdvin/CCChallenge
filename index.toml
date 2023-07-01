@@ -252,11 +252,6 @@ hash = "91defa6403d242ea0431e37e2f028aa33d4bd990580d7dd69eac6c4c5685732f"
 metafile = true
 
 [[files]]
-file = "mods/productivebees.pw.toml"
-hash = "55fcf9797c15338728d2bf6b5e3df9bc7b38a205e2931efbd5e53ac0b3a184d6"
-metafile = true
-
-[[files]]
 file = "mods/prometheus.pw.toml"
 hash = "36a8de0300f6d69bdb8308132122e20d7b64d1bf51e86182987e65a0998bde14"
 metafile = true

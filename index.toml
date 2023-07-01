@@ -312,11 +312,6 @@ hash = "906fa2d7276f815d5dfbd9ea9ae457f694139f956075e66b683034d272697367"
 metafile = true
 
 [[files]]
-file = "mods/stratospherical-expansion.pw.toml"
-hash = "d35939ba29cc6fea10132beb597c187dd4c0baeea626f241ebe99b271623afc4"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2b1a0d7781207c0ce7f5ceb87651c3cbded313c2e7cac2832c7928fab5c57d2a"
 metafile = true
@@ -329,11 +324,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "49c168a99e651792050d54dbdc71a1e059c6a21f31fd892e36ec31caead8d6d5"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "eaef5234eaacabe98c2fa6fd02cfe927b0269ac2669ce8035f48c62df81c56c1"
 metafile = true
 
 [[files]]

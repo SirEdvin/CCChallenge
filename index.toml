@@ -122,6 +122,11 @@ hash = "d522fd0e391b269f6addc70b7b275993de2cc97f4ed083af85d060dac7963cf8"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "f39da2caaa7ed01698228142982a739b09d24f211079e78601a61324771eb278"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "15a5a9652b3cf95ce7f2ea12a564d5d90a018bf946cd8f71bc52645204f77f0f"
 metafile = true
@@ -254,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "ff0a6080bd9345bef30971627c090340febd966c1e616036fc08a8f5e5bf5336"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b96e407d6e1bd4f02e610b6223251ff0401a6946d604fe6e4562a938f7ddded2"
 metafile = true
 
 [[files]]
@@ -396,4 +406,4 @@ hash = "26633b8cdd7ce83fc0853a6451d27a6031e2b3836d527209ddeb9c626e6e2c58"
 
 [[files]]
 file = "scripts/recipe_purge.zs"
-hash = "b94f886d8159465b3cfe950c8fb46c5bb6f670e4b635f55c46c715127c3475b0"
+hash = "217aeef8e833fa7d4ab87de97066c6488bc1a57b1e493731b6e42e8a61ea577e"

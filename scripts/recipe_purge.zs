@@ -24,7 +24,5 @@ craftingTable.remove(<item:occultism:book_of_calling_foliot_lumberjack>);
 craftingTable.remove(<item:ae2:import_bus>);
 craftingTable.remove(<item:ae2:export_bus>);
 
-var ae2Attunments = <recipetype:ae2:p2p_attunments>;
-
-ae2Attunments.remove(<item:ae2:item_p2p_tunnel>);
-ae2Attunments.remove(<item:ae2:fluid_p2p_tunnel>);
+<tagmanager:items>.clear(<tag:items:ae2:p2p_attunments/item_p2p_tunnel>);
+<tagmanager:items>.clear(<tag:items:ae2:p2p_attunments/fluid_p2p_tunnel>);

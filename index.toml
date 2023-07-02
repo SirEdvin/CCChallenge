@@ -1,6 +1,82 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/extendedcrafting/singularities/aluminum.json"
+hash = "b5a9fe5e91df8e7ba6e208828943472c82a460457f3a9bf561569f02576c5ff9"
+
+[[files]]
+file = "config/extendedcrafting/singularities/bronze.json"
+hash = "d1393d5c0287536222405fa2d143945502581008912853c14f7ef32efc029f60"
+
+[[files]]
+file = "config/extendedcrafting/singularities/coal.json"
+hash = "0ae1f7340d548abe2c6418b4e4e22836d0d086bf9accb63fdc7826e948146a68"
+
+[[files]]
+file = "config/extendedcrafting/singularities/copper.json"
+hash = "b8bedddbab362903586bdf8400c557b377082f763d31c83445d0a32e237b98f9"
+
+[[files]]
+file = "config/extendedcrafting/singularities/diamond.json"
+hash = "d92bfc4ab34b0b61684df3746a34d26bab6375116b3d3cb6195d096cc906b06b"
+
+[[files]]
+file = "config/extendedcrafting/singularities/electrum.json"
+hash = "9087d4e4484ebf709b7407d87399c05938347de77c99b38af12be0e2a8e98d65"
+
+[[files]]
+file = "config/extendedcrafting/singularities/emerald.json"
+hash = "446cfc0973dda02c495835bb45d406a801103144903edfcc641baca393dcee48"
+
+[[files]]
+file = "config/extendedcrafting/singularities/glowstone.json"
+hash = "631a85daa1c1b290eea94e8f9fa765a3454fc20a7b9b65d657cf49828acb433c"
+
+[[files]]
+file = "config/extendedcrafting/singularities/gold.json"
+hash = "19006ad7a8976d18443b82df40361950d0f66fb08b7622a04e924c138e2827b7"
+
+[[files]]
+file = "config/extendedcrafting/singularities/invar.json"
+hash = "0372556cd0bab9b0405ec92bb054f732fd876df7dcf49cbb84033561731b1ee4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/iron.json"
+hash = "493f7f84e396a0ab98a75ab79878d406466a17d6604b1cc3af72e7d585f9cef4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/lapis_lazuli.json"
+hash = "79d987f64ea300c7e7397233023ee4e62d2469df2ae9e29eee91aadfe795baba"
+
+[[files]]
+file = "config/extendedcrafting/singularities/lead.json"
+hash = "d6cbbb838a2b0e6654844291ee799a0c2ebbe81b88066e62a62b73e1923aae05"
+
+[[files]]
+file = "config/extendedcrafting/singularities/nickel.json"
+hash = "5d0c481e56346a1bbaca5b6187ed9920864c3c740b93218b19b24a406dde86c6"
+
+[[files]]
+file = "config/extendedcrafting/singularities/platinum.json"
+hash = "a340b4bed6de15eb77017cb3006be15ba620c74d513c06d49a61d6517f5434e4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/redstone.json"
+hash = "fc2e360ad8ba4905ad4eb87541e8a7feeb19d2a67310f66a14cb27528a9b805f"
+
+[[files]]
+file = "config/extendedcrafting/singularities/silver.json"
+hash = "6fc9834eec29f9c905d93475168f8642f64ca66c325f8b2a2551cbcb5b3b3cc4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/steel.json"
+hash = "6806c04bc2987d112aca07c48e593b42e54cc1d1bad1810d6d73e0531c0a1ff2"
+
+[[files]]
+file = "config/extendedcrafting/singularities/tin.json"
+hash = "599c3d337ea5069923dc5e4d1aa7840a5bc7280397861556798d2d1da1f8c23e"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "98869e1dc26e664b4c3b6b9e3fd6d5ca8c0715e5f3e9c5319cfb0b6c90ac58ec"
 
